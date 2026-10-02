@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ecommerce-fulfillment-event-processing-lab-go",
+    "title": "Ecommerce Fulfillment Event Processing Lab",
+    "family": "Go",
+    "folder": "go/ecommerce-fulfillment-event-processing-lab-go"
+  },
+  {
+    "id": "healthcare-scheduling-reference-api-go",
+    "title": "Healthcare Scheduling Reference API",
+    "family": "Go",
+    "folder": "go/healthcare-scheduling-reference-api-go"
+  },
+  {
+    "id": "education-assessment-event-processor-go",
+    "title": "Education Assessment Event Processor",
+    "family": "Go",
+    "folder": "go/education-assessment-event-processor-go"
+  }
+]

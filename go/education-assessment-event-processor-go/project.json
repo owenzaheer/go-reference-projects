@@ -1,0 +1,32 @@
+{
+  "id": "education-assessment-event-processor-go",
+  "title": "Education Assessment Event Processor",
+  "family": "Go",
+  "domain": "education",
+  "actions": [
+    "submit",
+    "feedback",
+    "publish"
+  ],
+  "samples": {
+    "submit": {
+      "id": "SUB-1",
+      "student": "Synthetic learner",
+      "answers": [
+        "transaction",
+        "idempotency",
+        "audit"
+      ],
+      "deadline": 2000000000
+    },
+    "feedback": {
+      "id": "SUB-1",
+      "version": 0,
+      "feedback": "Fixture feedback: review transaction boundaries [source: rubric-1]"
+    },
+    "publish": {
+      "id": "SUB-1",
+      "version": 1
+    }
+  }
+}

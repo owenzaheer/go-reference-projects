@@ -1,0 +1,23 @@
+{
+  "id": "healthcare-scheduling-reference-api-go",
+  "title": "Healthcare Scheduling Reference API",
+  "family": "Go",
+  "domain": "scheduling",
+  "actions": [
+    "book",
+    "cancel"
+  ],
+  "samples": {
+    "book": {
+      "id": "APPT-1",
+      "tenant": "clinic-a",
+      "resource": "Room1",
+      "start": 2000000000,
+      "end": 2000001800
+    },
+    "cancel": {
+      "id": "ORDER-1",
+      "version": 0
+    }
+  }
+}

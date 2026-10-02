@@ -1,0 +1,18 @@
+{
+  "id": "ecommerce-fulfillment-event-processing-lab-go",
+  "title": "Ecommerce Fulfillment Event Processing Lab",
+  "family": "Go",
+  "domain": "events",
+  "actions": [
+    "enqueue",
+    "drain"
+  ],
+  "samples": {
+    "enqueue": {
+      "id": "EVENT-1",
+      "kind": "order",
+      "quantity": 2
+    },
+    "drain": {}
+  }
+}

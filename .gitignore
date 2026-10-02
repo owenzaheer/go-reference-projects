@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.next/
+__pycache__/
+.pytest_cache/
+*.db
+*.db-*
+*.key
+*.enc
+.env*
+!.env.example
+target/
+bin/
+obj/
+.venv/
+coverage/
+*.log
